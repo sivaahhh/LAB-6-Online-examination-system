@@ -1,13 +1,8 @@
 # LAB-6-Online-examination-system
-### AIM:
-To develop the Exam Registration System using Star UML tools.
-### PROBLEM STATEMENT
-1. Exam Registration System is used in the effective registration of exams to all of the
-applicants. This system adopts a comprehensive approach to minimize the manual work and# LAB-6-Online-examination-system
 
-NAME : SIVA SAKTHI.A
+## NAME : SIVA SAKTHI.A
 
-REGISTER NUMBER : 25018439
+### REGISTER NUMBER : 25018439
 
 ### AIM :
 To develop the Exam Registration System using Star UML tools.
